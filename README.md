@@ -15,9 +15,6 @@ This repository contains an API built **for studying and practicing NestJS**.
 - **NestJS**
 - TypeScript
 
-## Running the project
-
-> Adjust commands if your project uses different scripts.
 
 ### Install dependencies
 ```bash
